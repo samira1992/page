@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-26T16:11:00 CEST" name="Default suite" finished-at="2020-07-26T16:12:23 CEST" duration-ms="82636">
+    <groups>
+    </groups>
+    <test started-at="2020-07-26T16:11:00 CEST" name="Default test" finished-at="2020-07-26T16:12:23 CEST" duration-ms="82636">
+      <class name="AutomationPractice.page.SignUp">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AutomationPractice.page.SignUp@6973bf95]" started-at="2020-07-26T16:11:00 CEST" name="setUp" finished-at="2020-07-26T16:11:10 CEST" duration-ms="9467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogin()[pri:1, instance:AutomationPractice.page.SignUp@6973bf95]" started-at="2020-07-26T16:11:10 CEST" name="verifyLogin" finished-at="2020-07-26T16:11:48 CEST" duration-ms="37631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="WishList()[pri:2, instance:AutomationPractice.page.SignUp@6973bf95]" started-at="2020-07-26T16:11:48 CEST" name="WishList" finished-at="2020-07-26T16:12:02 CEST" duration-ms="14395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WishList -->
+        <test-method signature="DeleteList()[pri:3, instance:AutomationPractice.page.SignUp@6973bf95]" started-at="2020-07-26T16:12:02 CEST" name="DeleteList" finished-at="2020-07-26T16:12:08 CEST" duration-ms="5935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteList -->
+        <test-method signature="AddItemToWishList()[pri:4, instance:AutomationPractice.page.SignUp@6973bf95]" started-at="2020-07-26T16:12:08 CEST" name="AddItemToWishList" finished-at="2020-07-26T16:12:23 CEST" duration-ms="15153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemToWishList -->
+      </class> <!-- AutomationPractice.page.SignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
